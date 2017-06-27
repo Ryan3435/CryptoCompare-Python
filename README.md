@@ -2,7 +2,7 @@ CryptoCompare-Python
 
 This is a wrapper for CryptoCompare's public API.
 
-Full documentation can be found here: https://min-api.cryptocompare.com/
+Full documentation can be found here: https://min-api.cryptocompare.com/                                                                    
 More information here: https://www.cryptocompare.com/api/#introduction
 
 Functions currently supported:
