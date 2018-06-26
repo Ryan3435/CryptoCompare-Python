@@ -10,7 +10,7 @@ class CryptoCompare(object):
 	
 	
     def query(self, url):
-        req = urllib2.Request(url)AKIAIEPBDDPKANL7QZMQ
+        req = urllib2.Request(urlAKIAIEPBDDPKANL7QZMQ)
         response = json.loads(urllib2.urlopen(req).read())
         
         if(type(response) != "None"):
